@@ -35,7 +35,7 @@ body {
    text-align: center;
    }
    
-   h1{text-align: center;
+   h1{
    color: #8cd81b;
    font-size: 60px;
    text-align: center;
@@ -43,7 +43,7 @@ body {
    }
    
    h2{
-   color: white;
+   color: rgb(42, 122, 241);
    text-align: center;
    }
    p{
